@@ -1,2 +1,2 @@
 # Study
-TThese are a summary of the code I wrote for study.
+These are a collection of codes I wrote for study.
